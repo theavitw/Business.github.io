@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Business.github.io/static/css/main.3519d9c5.css",
+    "main.css": "/Business.github.io/static/css/main.8ae34432.css",
     "main.js": "/Business.github.io/static/js/main.216d9ad9.js",
     "static/js/787.7ea0274a.chunk.js": "/Business.github.io/static/js/787.7ea0274a.chunk.js",
     "static/media/Rectangle 4574.jpg": "/Business.github.io/static/media/Rectangle 4574.7ab61a4ecff003bbc7d2.jpg",
@@ -18,12 +18,12 @@
     "static/media/Rectangle 4338.jpg": "/Business.github.io/static/media/Rectangle 4338.828526eaf85364363052.jpg",
     "static/media/Group 1000001894 (1).png": "/Business.github.io/static/media/Group 1000001894 (1).2775cd267817950d973d.png",
     "index.html": "/Business.github.io/index.html",
-    "main.3519d9c5.css.map": "/Business.github.io/static/css/main.3519d9c5.css.map",
+    "main.8ae34432.css.map": "/Business.github.io/static/css/main.8ae34432.css.map",
     "main.216d9ad9.js.map": "/Business.github.io/static/js/main.216d9ad9.js.map",
     "787.7ea0274a.chunk.js.map": "/Business.github.io/static/js/787.7ea0274a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3519d9c5.css",
+    "static/css/main.8ae34432.css",
     "static/js/main.216d9ad9.js"
   ]
 }
