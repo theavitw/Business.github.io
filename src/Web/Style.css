@@ -556,7 +556,7 @@
         display: none;
     }
 
-    
+
 
 
 
@@ -591,9 +591,14 @@
 }
 
 @media (max-width:920px) {
+    .content {
+        text-align: center;
+    }
+
     .navbar-main {
         flex-direction: column;
     }
+
     .ref {
         flex-direction: column;
     }
@@ -688,15 +693,11 @@
         transition: all 0.3s ease;
     }
 
-    .tp .row {
-        display: flex !important;
-    }
+    
 
     .tp {
         display: flex;
-        margin: 0;
-        justify-: center;
-        align-items: center;
+        justify-content: center;
     }
 
     .row {
@@ -737,15 +738,14 @@
 }
 
 @media (max-width:700px) {
+
     .cb-2,
     .cb-3,
     .cb-4 {
         width: auto !important;
     }
 
-    .content {
-        text-align: center;
-    }
+
 
     .tp .row div {
         display: flex;
@@ -812,9 +812,9 @@
         flex-direction: column;
     }
 
-    
+
     .form-row {
-        flex-wrap: wrap;
+        flex-wrap: wrap !important;
     }
 
     .grid-item {
