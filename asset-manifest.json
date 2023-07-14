@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/Business.github.io/static/css/main.929a47e2.css",
-    "main.js": "/Business.github.io/static/js/main.193a5dea.js",
-    "static/js/787.7ea0274a.chunk.js": "/Business.github.io/static/js/787.7ea0274a.chunk.js",
+    "main.css": "/Business.github.io/static/css/main.a6389689.css",
+    "main.js": "/Business.github.io/static/js/main.48b73393.js",
     "static/media/Rectangle 4574.jpg": "/Business.github.io/static/media/Rectangle 4574.7ab61a4ecff003bbc7d2.jpg",
     "static/media/Group 12.png": "/Business.github.io/static/media/Group 12.285e0316ba01b009a047.png",
     "static/media/Group 11.png": "/Business.github.io/static/media/Group 11.054243a93bda095ae38f.png",
@@ -16,14 +15,14 @@
     "static/media/Blog Image (2).jpg": "/Business.github.io/static/media/Blog Image (2).288d098faf9fc19f6473.jpg",
     "static/media/Rectangle 4504 (2).jpg": "/Business.github.io/static/media/Rectangle 4504 (2).26b54bc51eccd45ed6a1.jpg",
     "static/media/Rectangle 4338.jpg": "/Business.github.io/static/media/Rectangle 4338.828526eaf85364363052.jpg",
+    "static/media/Ellipse 2711.png": "/Business.github.io/static/media/Ellipse 2711.4485efc162090317d302.png",
     "static/media/Group 1000001894 (1).png": "/Business.github.io/static/media/Group 1000001894 (1).2775cd267817950d973d.png",
     "index.html": "/Business.github.io/index.html",
-    "main.929a47e2.css.map": "/Business.github.io/static/css/main.929a47e2.css.map",
-    "main.193a5dea.js.map": "/Business.github.io/static/js/main.193a5dea.js.map",
-    "787.7ea0274a.chunk.js.map": "/Business.github.io/static/js/787.7ea0274a.chunk.js.map"
+    "main.a6389689.css.map": "/Business.github.io/static/css/main.a6389689.css.map",
+    "main.48b73393.js.map": "/Business.github.io/static/js/main.48b73393.js.map"
   },
   "entrypoints": [
-    "static/css/main.929a47e2.css",
-    "static/js/main.193a5dea.js"
+    "static/css/main.a6389689.css",
+    "static/js/main.48b73393.js"
   ]
 }
