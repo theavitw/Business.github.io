@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Business.github.io/static/css/main.50b74dca.css",
-    "main.js": "/Business.github.io/static/js/main.7760684b.js",
+    "main.css": "/Business.github.io/static/css/main.e61c851c.css",
+    "main.js": "/Business.github.io/static/js/main.bcfdbbe8.js",
     "static/js/787.7ea0274a.chunk.js": "/Business.github.io/static/js/787.7ea0274a.chunk.js",
     "static/media/Rectangle 4574.jpg": "/Business.github.io/static/media/Rectangle 4574.7ab61a4ecff003bbc7d2.jpg",
     "static/media/Group 12.png": "/Business.github.io/static/media/Group 12.285e0316ba01b009a047.png",
@@ -19,12 +19,12 @@
     "static/media/Ellipse 2711.png": "/Business.github.io/static/media/Ellipse 2711.4485efc162090317d302.png",
     "static/media/Group 1000001894 (1).png": "/Business.github.io/static/media/Group 1000001894 (1).2775cd267817950d973d.png",
     "index.html": "/Business.github.io/index.html",
-    "main.50b74dca.css.map": "/Business.github.io/static/css/main.50b74dca.css.map",
-    "main.7760684b.js.map": "/Business.github.io/static/js/main.7760684b.js.map",
+    "main.e61c851c.css.map": "/Business.github.io/static/css/main.e61c851c.css.map",
+    "main.bcfdbbe8.js.map": "/Business.github.io/static/js/main.bcfdbbe8.js.map",
     "787.7ea0274a.chunk.js.map": "/Business.github.io/static/js/787.7ea0274a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50b74dca.css",
-    "static/js/main.7760684b.js"
+    "static/css/main.e61c851c.css",
+    "static/js/main.bcfdbbe8.js"
   ]
 }
